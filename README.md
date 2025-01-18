@@ -1,6 +1,7 @@
 # 👨‍💻 Ravisingh Chauhan
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Engineer+by+Day+%F0%9F%8C%9F;Bug+Hunter+by+Night+%F0%9F%90%9E;FastAPI+%26+Node.js+Ninja+%F0%9F%A5%B7;AI+Whisperer+%F0%9F%A4%96+%E2%9C%A8;Turning+Coffee+into+Code+%E2%98%95;Stack+Overflow+Survivor+%F0%9F%92%AA;git+commit+-m+%22Trust+me%2C+it+works%22+%F0%9F%98%85;404+Sleep+Not+Found+%F0%9F%92%BB;Cloud+Architecture+Dreamer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Engineer+%F0%9F%92%BB;Cloud+Solution+Architect+%E2%98%81%EF%B8%8F;FastAPI+%26+Node.js+Specialist+%F0%9F%A5%B7;AI+Explorer+%F0%9F%A4%96;Problem+Solver+%F0%9F%A4%AF;Open+Source+Contributor+%F0%9F%92%9A;Bug+Hunter+%F0%9F%90%9E;git+commit+-m+%22Code+with+Clarity%22+%F0%9F%98%8E" alt="Typing SVG" />
+
 </div>
 
 ## 🎯 About Me
